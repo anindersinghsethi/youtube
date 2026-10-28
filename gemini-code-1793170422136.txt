@@ -1,0 +1,13 @@
+yt-retention-analyzer/
+├── .env.example
+├── .gitignore
+├── README.md
+├── requirements.txt       <-- Updated with streamlit, plotly, pandas
+├── main.py                <-- CLI runner
+├── app.py                 <-- NEW: Interactive Streamlit + Plotly Web UI
+└── src/
+    ├── __init__.py
+    ├── auth.py
+    ├── youtube_client.py
+    ├── aligner.py         <-- Updated with structured list helper for Plotly
+    └── llm_analyzer.py

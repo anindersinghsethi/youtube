@@ -1,0 +1,9 @@
+google-api-python-client>=2.100.0
+google-auth-oauthlib>=1.1.0
+isodate>=0.6.1
+youtube-transcript-api>=0.6.2
+google-genai>=0.3.0
+python-dotenv>=1.0.0
+streamlit>=1.38.0
+plotly>=5.24.0
+pandas>=2.2.0
